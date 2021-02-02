@@ -1,0 +1,27 @@
+body {
+  background-color: #3DAD7F;
+}
+
+div {
+  color: #6A387A;
+  font-family: tahoma;
+  font-size: 16px;
+  float: left;
+  background-color: #EBBDFA;
+  border-style: solid;
+  border-color: #2B7A59;
+  border-radius: 8px;
+  padding: 0px 40px 20px 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  overflow: auto;
+  float: left;
+}
+
+img {
+  float: right;
+  width: 60%;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #6A387A;
+}
