@@ -1,0 +1,33 @@
+html {
+  background-color: #69B4FF;
+}
+
+div {
+  color: #648BB3;
+  font-family: times;
+  line-height: normal;
+  font-size: 26px;
+  float: left;
+  background-color: #D8EBFE;
+  border-stlye: solid;
+  padding: 20px 40px 20px 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow: auto;
+  float: left;
+}
+
+h2{
+  margin-bottom: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#script {
+  border-style: dotted;
+  padding: 0px 20px 20px 20px;
+  float: left;
+
+}
