@@ -33,3 +33,22 @@ function ageFunc(made, year) {
 }
 ageFunc(2010, year);
 ageFunc(2000, year);
+
+//create a function that adds first and last name together
+function userName(firstName,lastName) {
+  var result= firstName + " " + lastName;
+  return result;
+}
+
+console.log(userName("Elena","Ibbetson"))
+
+//
+var funFunction= function() {
+  console.log("I think they're neat.");
+}
+funFunction();
+
+//
+setTimeout(function(){
+  console.log("look at this!");
+}, 3000);
