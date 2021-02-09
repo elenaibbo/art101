@@ -36,11 +36,11 @@
 
  //test 3
  setTimeout(function(){
-   firstThing("TEST 2");
+   firstThing("TEST 3");
  }, 4000);
  setTimeout(function(){
-   secondThing("TEST 2");
+   secondThing("TEST 3");
  }, 2000);
  setTimeout(function(){
-   thirdThing("TEST 2");
+   thirdThing("TEST 3");
  }, 3000);
