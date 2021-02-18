@@ -1,0 +1,22 @@
+.special {
+  border-style: double;
+  border-color: red;
+  padding: 0px 10px 10px 10px;
+  background-color: #C7DBEA;
+  color: #385366;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: #385366;
+  color: #C7DBEA;
+}
+
+button {
+  color: #385366;
+  margin-left: 50px;
+}
+
+.changeColor button {
+  color: white;
+}
