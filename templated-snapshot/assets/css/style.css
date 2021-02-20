@@ -2,3 +2,7 @@
   border : solid 10px;
   border-color : white;
 }
+
+.color_me {
+  color: green;
+}

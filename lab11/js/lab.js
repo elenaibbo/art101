@@ -10,11 +10,11 @@ var resultButton= $("#results");
 var outputButton= $("#output");
 
 //create button element and add them to each div
-$(challengeButton).append("<button> Click me! </button>");
-$(resultButton).append("<button> No, click me! </button>");
-$(outputButton).append("<button> Oi! Click me! </button>");
+$(challengeButton).append("<button id= 'c-button'> Click me! </button>");
+$(resultButton).append("<button id= 'r-button'> No, click me! </button>");
+$(outputButton).append("<button id= 'o-button'> Oi! Click me! </button>");
 
-//add click function to buttons that makes text pop up
+//add click function to buttons toggles class "special" to div ids
 $(challengeButton).click(function(){
   $("#challenges").toggleClass("special");
   });
