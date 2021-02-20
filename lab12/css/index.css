@@ -1,0 +1,28 @@
+body {
+  background-color: #3A393D;
+  line-height: 20px
+}
+
+.content {
+  background-color: #E6C597;
+  padding: 10px 20px 20px 20px;
+}
+
+h1, h2, h3 {
+  font-family: cursive;
+  font-variant: small-caps;
+}
+
+#hogwartsCrest {
+  width: 200px;
+  float: right;
+  margin: 15px 15px 10px 1px;
+}
+
+#button {
+  margin-bottom: 10px;
+}
+
+#input {
+  margin-top: 10px;
+}
