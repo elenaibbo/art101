@@ -1,1 +1,15 @@
+.box_even {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border: solid maroon 5px;
+  float: left;
+}
 
+.box_odd {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border: solid maroon 5px;
+  float: left;
+}
