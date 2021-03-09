@@ -5,7 +5,7 @@
 * Public Domain
 **/
 
-//ajax function to get a dad joke
+//ajax function to get web comic
 var comicObj= function() {
   $.ajax({
     url: "https://xkcd.com/500/info.0.json",
